@@ -1,0 +1,1770 @@
+exit
+pacman
+p
+pacman -S keepassxc
+sudo pacman -S keepassxc
+mkdir github-archeoss
+cd github-archeoss/
+git clone 
+(http get https://api.chucknorris.io/jokes/random).value
+git clone git@github.com:archeoss/neovim.git ~/.config/nvim
+ssh-keygen -t ed25519 -C "archeosanacritis@gmail.com"
+cat ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+keepassxc 
+sudo pacman -S xclip
+cat ~/.ssh/id_ed25519.pub | xclip --clipboard
+xclip --help
+xclip -h
+cat ~/.ssh/id_ed25519.pub | xclip -selection clipboard
+sudo pacman -Rs xclip
+sudo pacman -S wl-clipboard
+cat ~/.ssh/id_ed25519.pub | wl-copy
+git clone git@github.com:archeoss/neovim.git ~/.config/nvim
+nvim
+ls ../.config/nvim/
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+sudo rm -rf ~/.config/nvim/
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+git clone git@github.com:archeoss/neovim.git ~/.config/nvim/lua/user
+ls ../.config/nvim/
+ls ../.config/nvim/lua/
+ls ../.config/nvim/lua/user/
+nvim
+rustup default nightly
+rustup --help
+rustup show
+htop
+nvidia-smi
+clear
+yay -Syu python-pip
+sudo rm /var/lib/pacman/db.lck
+yay -Syu python-pip
+cargo install exa
+cargo install bat
+echo "%wheel ALL=(ALL:ALL) ALL" >/etc/sudoers.d/00-larbs-wheel-can-sudo<\n>echo "%wheel ALL=(ALL:ALL) NOPASSWD: /usr/bin/shutdown,/usr/bin/reboot,/usr/bin/systemctl suspend,/usr/bin/wifi-menu,/usr/bin/mount,/usr/bin/umount,/usr/bin/pacman -Syu,/usr/bin/pacman -Syyu,/usr/bin/pacman -Syyu --noconfirm,/usr/bin/loadkeys,/usr/bin/pacman -Syyuw --noconfirm,/usr/bin/pacman -S -u -y --config /etc/pacman.conf --,/usr/bin/pacman -S -y -u --config /etc/pacman.conf --" >/etc/sudoers.d/01-larbs-cmds-without-password
+cat /etc/sudoers
+sudo echo "%wheel ALL=(ALL:ALL) ALL" >/etc/sudoers.d/00-larbs-wheel-can-sudo<\n>sudo echo "%wheel ALL=(ALL:ALL) NOPASSWD: /usr/bin/shutdown,/usr/bin/reboot,/usr/bin/systemctl suspend,/usr/bin/wifi-menu,/usr/bin/mount,/usr/bin/umount,/usr/bin/pacman -Syu,/usr/bin/pacman -Syyu,/usr/bin/pacman -Syyu --noconfirm,/usr/bin/loadkeys,/usr/bin/pacman -Syyuw --noconfirm,/usr/bin/pacman -S -u -y --config /etc/pacman.conf --,/usr/bin/pacman -S -y -u --config /etc/pacman.conf --" >/etc/sudoers.d/01-larbs-cmds-without-password
+ls /etc/sudoers.d/
+ls /etc/
+ls /etc/sudoers
+sudo touch /etc/sudoers.d/00-wheel-can-sudo
+sudo touch /etc/sudoers.d/01-cmds-without-password
+sudo echo "%wheel ALL=(ALL:ALL) ALL" >/etc/sudoers.d/00-wheel-can-sudo<\n>sudo echo "%wheel ALL=(ALL:ALL) NOPASSWD: /usr/bin/shutdown,/usr/bin/reboot,/usr/bin/systemctl suspend,/usr/bin/wifi-menu,/usr/bin/mount,/usr/bin/umount,/usr/bin/pacman -Syu,/usr/bin/pacman -Syyu,/usr/bin/pacman -Syyu --noconfirm,/usr/bin/loadkeys,/usr/bin/pacman -Syyuw --noconfirm,/usr/bin/pacman -S -u -y --config /etc/pacman.conf --,/usr/bin/pacman -S -y -u --config /etc/pacman.conf --" >/etc/sudoers.d/01-cmds-without-password
+cat /etc/sudoers.d/00-wheel-can-sudo
+sudo echo "%wheel ALL=(ALL:ALL) ALL" >/etc/sudoers.d/00-wheel-can-sudo<\n>sudo cat "%wheel ALL=(ALL:ALL) NOPASSWD: /usr/bin/shutdown,/usr/bin/reboot,/usr/bin/systemctl suspend,/usr/bin/wifi-menu,/usr/bin/mount,/usr/bin/umount,/usr/bin/pacman -Syu,/usr/bin/pacman -Syyu,/usr/bin/pacman -Syyu --noconfirm,/usr/bin/loadkeys,/usr/bin/pacman -Syyuw --noconfirm,/usr/bin/pacman -S -u -y --config /etc/pacman.conf --,/usr/bin/pacman -S -y -u --config /etc/pacman.conf --" >/etc/sudoers.d/01-cmds-without-password
+sudo echo "%wheel ALL=(ALL:ALL) ALL" >/etc/sudoers.d/00-wheel-can-sudo<\n>sudo cat "%wheel ALL=(ALL:ALL) NOPASSWD: /usr/bin/shutdown,/usr/bin/reboot,/usr/bin/systemctl suspend,/usr/bin/wifi-menu,/usr/bin/mount,/usr/bin/umount,/usr/bin/pacman -Syu,/usr/bin/pacman -Syyu,/usr/bin/pacman -Syyu --noconfirm,/usr/bin/loadkeys,/usr/bin/pacman -Syyuw --noconfirm,/usr/bin/pacman -S -u -y --config /etc/pacman.conf --,/usr/bin/pacman -S -y -u --config /etc/pacman.conf --" > /etc/sudoers.d/01-cmds-without-password
+cat /etc/sudoers.d/00-wheel-can-sudo
+nvim /etc/sudoers.d/00-wheel-can-sudo
+sudo nvim /etc/sudoers.d/00-wheel-can-sudo
+sudo echo "%wheel ALL=(ALL:ALL) ALL" > /etc/sudoers.d/00-wheel-can-sudo
+echo "%wheel ALL=(ALL:ALL) ALL" > /etc/sudoers.d/00-wheel-can-sudo
+echo "%wheel ALL=(ALL:ALL) ALL" in /etc/sudoers.d/00-wheel-can-sudo
+echo "%wheel ALL=(ALL:ALL) ALL" to /etc/sudoers.d/00-wheel-can-sudo
+"%wheel ALL=(ALL:ALL) ALL" > /etc/sudoers.d/00-wheel-can-sudo
+"%wheel ALL=(ALL:ALL) ALL" >> /etc/sudoers.d/00-wheel-can-sudo
+"%wheel ALL=(ALL:ALL) ALL" | /etc/sudoers.d/00-wheel-can-sudo
+"%wheel ALL=(ALL:ALL) ALL" in /etc/sudoers.d/00-wheel-can-sudo
+sudo open /etc/sudoers.d/00-wheel-can-sudo | upsert "%wheel ALL=(ALL:ALL) ALL"  | save 
+echo "%wheel ALL=(ALL:ALL) ALL" | save /etc/sudoers.d/00-larbs-wheel-can-sudo
+echo "%wheel ALL=(ALL:ALL) ALL" | sudo save /etc/sudoers.d/00-larbs-wheel-can-sudo
+sudo echo "%wheel ALL=(ALL:ALL) ALL" | save /etc/sudoers.d/00-larbs-wheel-can-sudo
+sudo echo "%wheel ALL=(ALL:ALL) ALL" | sudo tee /etc/sudoers.d/00-larbs-wheel-can-sudo
+cat /etc/sudoers.d/00-wheel-can-sudo
+cat /etc/sudoers.d/00-larbs-wheel-can-sudo
+rm /etc/sudoers.d/00-larbs-wheel-can-sudo
+sudo rm /etc/sudoers.d/00-larbs-wheel-can-sudo
+sudo echo "%wheel ALL=(ALL:ALL) ALL" | sudo tee /etc/sudoers.d/00-wheel-can-sudo
+echo "%wheel ALL=(ALL:ALL) NOPASSWD: /usr/bin/shutdown,/usr/bin/reboot,/usr/bin/systemctl suspend,/usr/bin/wifi-menu,/usr/bin/mount,/usr/bin/umount,/usr/bin/pacman -Syu,/usr/bin/pacman -Syyu,/usr/bin/pacman -Syyu --noconfirm,/usr/bin/loadkeys,/usr/bin/pacman -Syyuw --noconfirm,/usr/bin/pacman -S -u -y --config /etc/pacman.conf --,/usr/bin/pacman -S -y -u --config /etc/pacman.conf --" | sudo tee /etc/sudoers.d/01-cmds-without-password
+cat /etc/sudoers.d/01-cmds-without-password
+echo "kernel.dmesg_restrict = 0" | sudo tee /etc/sysctl.d/dmesg.conf
+cat /etc/sysctl.d/dmesg.conf
+grep -q "ILoveCandy" /etc/pacman.conf || sed -i "/#VerbosePkgLists/a ILoveCandy" /etc/pacman.conf<\n>sed -Ei "s/^#(ParallelDownloads).*/\1 = 5/;/^#Color$/s/#//" /etc/pacman.conf
+grep -q "ILoveCandy" /etc/pacman.conf or sed -i "/#VerbosePkgLists/a ILoveCandy" /etc/pacman.conf<\n>sed -Ei "s/^#(ParallelDownloads).*/\1 = 5/;/^#Color$/s/#//" /etc/pacman.conf
+sudo pacman -Syu ca-certificates
+pipewire
+pulseaudio
+sudo pacman -S polkit
+sudo pacman -S ttf-linux-libertine ttf-font-awesome ttf-dejavu 
+yay -Syu lf-git ueberzug arandr
+yay -Syu lf-git ueberzug
+yay -Syu dosfstools libnotify 	exfat-utils nsxiv
+yay -Syu ffmpeg
+yay -Syu ffmpegthumbnailer gnome-keyring mpd mpv mpc arkenfox-user.js noto-fonts noto-fonts-emoji ntfs-3g wireplumber pulsemixer pipewire-pulse
+yay -Syu sc-im unzip zathura yt-dlp 	zathura-pdf-mupdf poppler mediainfo atool fzf task-spooler htop-vim moreutils
+htop
+btm
+bottom
+echo $PATH
+echo $env.PATH
+echo $env.__GLX_VENDOR_LIBRARY_NAME
+cat .bashrc
+echo $env.PATH
+btm
+echo $env.PATH
+yay -Syu asoundconf list
+yay -Syu asoundconf
+asoundconf list
+pacman -S linux-firmware
+sudo pacman -S linux-firmware
+lsmod | grep snd_hda_intel
+lspci -nnk | grep -A2 Audio
+dmesg | grep -E '(sof|firm)'
+sudo dmesg | grep -E '(sof|firm)'
+sudo pacman -S sof-firmware
+pulsemixer 
+pulsemixer --help
+nvidia-smi
+set $env.__GLX_VENDOR_LIBRARY_NAME=
+set $env.__GLX_VENDOR_LIBRARY_NAME
+$env.__GLX_VENDOR_LIBRARY_NAME
+$env.__GLX_VENDOR_LIBRARY_NAME = 
+$env.__GLX_VENDOR_LIBRARY_NAME = ""
+firefox-developer-edition 
+nvidia-smi
+$env.GBM_BACKEND = "<\n>"
+$env.GBM_BACKEND = ""
+firefox-developer-edition 
+$env.GBM_BACKEND
+$env.__NV_PRIME_RENDER_OFFLOAD = 0
+nvidia-smi
+firefox-developer-edition 
+$env.__NV_PRIME_RENDER_OFFLOAD = 0
+firefox-developer-edition 
+$env.GBM_BACKEND = ""
+firefox-developer-edition 
+nvidia-smi
+$env.GBM_BACKEND = "" + $env.__NV_PRIME_RENDER_OFFLOAD = 0 | firefox-developer-edition 
+with-env { GBM_BACKEND = "", __NV_PRIME_RENDER_OFFLOAD = 0 } { firefox-developer-edition }
+with-env { GBM_BACKEND: "", __NV_PRIME_RENDER_OFFLOAD:  0 } { firefox-developer-edition }
+nvidia-smi
+kitty
+nvidia-smi
+with-env { GBM_BACKEND: "", __NV_PRIME_RENDER_OFFLOAD:  0 } { kitty }
+nvidia-smi
+with-env {  __NV_PRIME_RENDER_OFFLOAD:  0 } { kitty }
+nvidia-smi
+cd .config/
+ls
+cd dunst/
+ls
+nvim dunstrc
+cd ..
+mkdir firefox
+cd firefox/
+nvim default.js
+cd ..
+mkdir fontconfig
+cd fontconfig/
+nvim fonts.conf
+cd ..
+svn checkout https://github.com/LukeSmithxyz/voidrice/trunk/.config/lf
+sudo pacman -S svn
+svn checkout https://github.com/LukeSmithxyz/voidrice/trunk/.config/lf
+ls
+svn checkout https://github.com/LukeSmithxyz/voidrice/trunk/.config/mpd
+rm -rf mpd/.svn/
+rm -rf lf/.svn/
+svn checkout https://github.com/LukeSmithxyz/voidrice/trunk/.config/mpv
+rm -rf */.svn
+svn checkout https://github.com/LukeSmithxyz/voidrice/trunk/.config/pipewire
+svn checkout https://github.com/LukeSmithxyz/voidrice/trunk/.config/shell
+cd shell/
+v .
+sudo nvim /etc/locale.gen
+locale-gen
+sudo locale-gen
+locale
+sudo nvim /etc/X11/xorg.conf.d/
+sudo nvim /etc/X11/xorg.conf
+echo "Section "InputDevice"<\n>    Identifier  "Keyboard0"<\n>    Driver      "keyboard"<\n>        Option      "CoreKeyboard"<\n>    Option "XkbRules" "xorg"<\n>    Option "XkbModel" "dell"<\n>    Option "XkbLayout" "se, us, ru" <----- THIS IS THE IMPORTANT PART! I use se=swedish, us=US english and ru=russian<\n>    Option "XkbOptions" "grp:alt_shift_toggle,grp_led:scroll" <----- could be usefull<\n>EndSection" | sudo tee /etc/X11/xorg.conf
+cat /etc/X11/xorg.conf
+sudo nvim /etc/X11/xorg.conf
+cat /etc/X11/xorg.conf
+sudo rm /etc/X11/xorg.conf
+sudo echo "Section "InputDevice"<\n>    Identifier  "Keyboard0"<\n>    Driver      "keyboard"<\n>        Option      "CoreKeyboard"<\n>    Option "XkbRules" "xorg"<\n>    Option "XkbModel" "dell"<\n>    Option "XkbLayout" "se, us, ru" <----- THIS IS THE IMPORTANT PART! I use se=swedish, us=US english and ru=russian<\n>    Option "XkbOptions" "grp:alt_shift_toggle,grp_led:scroll" <----- could be usefull<\n>EndSection" | sudo tee /etc/X11/xorg.conf
+cat /etc/X11/xorg.conf
+nvim /etc/X11/xorg.conf
+sudo nvim /etc/X11/xorg.conf
+mv /etc/X11/xorg.conf /etc/X11/xorg.conf.d/00-keyboard.conf
+sudo mv /etc/X11/xorg.conf /etc/X11/xorg.conf.d/00-keyboard.conf
+cat /etc/X11/xorg.conf.d/00-keyboard.conf
+cd .config/shell/
+v aliasrc
+nvim aliasrc
+yay -Syu ttf-jetbrains-mono-nerd 3.0.2-1
+yay -Syu ttf-jetbrains-mono-nerd
+cd .config/shell/
+yay -Syu npm yarn 
+cd .config/shell/
+v aliasrc
+nvim aliasrc
+mkdir ~/.cargo
+cd ~/.cargo/
+nvim config.toml
+sudo pacman -S mold
+nvim config.toml
+cargo install bacon bat sccache 
+cargo install surrealdb
+cargo install cargo-install
+cargo install wiki-tui
+sccache
+where sccache
+path sccache
+where
+pwd
+pwd sccache
+cargo install wiki-tui
+file 
+ls -a
+htop
+cargo install wiki-tui
+sudo pacman -S sniffnet
+sniffnet
+with-env {} {sniffnet}
+with-env {$env.GBM_BACKEND: "", $env.__NV_PRIME_RENDER_OFFLOAD: 0} {sniff-net}
+with-env {$env.GBM_BACKEND: "", $env.__NV_PRIME_RENDER_OFFLOAD: 0} {sniffnet }
+cargo install tauri-cli
+sudo pacman -Rs sniffnet
+df -h
+cargo install cargo-install-update
+cargo install cargo-update
+cargo install-update -a
+cargo install cargo-asm cargo-info cargo-bloat
+echo $env.PATH
+echo $env.EDITOR
+upower -d
+shell
+sudo pacman -S nerdfonts
+sudo pacman -S nerd-fonts
+cargi install exa
+cargo install exa
+cargo install du-dust
+cargo install ripgrep
+pacman -S jupyter
+sudo pacman -S jupyter
+sudo pacman -S jupyter-notebook
+cargo install irust evcxr_jupiter speedtest-rs
+echo $env.config
+cargo install evcxr_jupyter 
+echo $nu.config-path
+ls -a
+ls
+nvidia-smi
+cd github-archeoss/
+ls
+cd github-archeoss/
+exit
+nvidia-smi 
+pacman
+pacman -Syu
+help aliases
+pacman -S discord
+sudo pacman -S discord
+upower -d
+aliases
+help aliases
+help
+help aliases
+show aliases
+aliases show
+help aliases
+shells
+help aliases
+show aliases
+help aliases
+upower -d
+help aliases
+exit
+help aliases
+exit
+pulsemixer 
+pulsemixer --help
+pacman -S sof-firmware
+sudo pacman -S sof-firmware
+shutdown
+shutdown --now
+shutdown -n
+shutdown --help
+shutdown -P
+pacman -S alsa-ucm-conf
+sudopacman -S alsa-ucm-conf
+sudo pacman -S alsa-ucm-conf
+pulsemixer 
+pulsemixer --list-sources
+pulsemixer --list-servers
+pulseaudio
+sudo pacman -S pulseaudio
+pipewire 
+pipewire --help
+systemctl --user restart pipewire
+pulsemixer 
+systemctl --user restart pipewire wireplumber pipewire-pulse
+systemctl --user restart pipewire wireplumber pipewire-pulse pulsemixer
+systemctl enable pipewire wireplumber pipewire-pulse 
+systemctl enable wireplumber pipewire-pulse 
+systemctl enable pipewire-pulse 
+/usr/bin/pipewire
+cd .config/nushell/
+v config.nu
+nvim config.nu
+cd .config/nushell/
+nvim config.nu
+cd .config/nushell/
+nvim config.nu
+pulsemixer --help
+pulsemixer 
+nvidia-smi 
+pipewire 
+sudo journalctl -b
+systemctl --user restart pipewire wireplumber pipewire-pulse pulsemixer
+systemctl status --user pipewire
+pacman -Rs pipewire
+sudo pacman -Rs pipewire
+sudo pacman -Rs pipewire*
+sudo pacman -Rs wireplumber
+cd .config/nushell/
+nvim config.nu
+ls
+pacman
+pacman -Syu
+cd ..
+nvim nvim/lua/user/
+journalctl -b
+systemctl --user status pulseaudio.service
+systemctl --user status pipewire
+systemctl --user enable pipewire
+systemctl --user start pipewire
+systemctl start pipewire
+wireplumber --help
+wireplumber -c
+systemctl --user disable pipewire
+pacman -Rs pipewire
+sudo pacman -Rs pipewire
+sudo pacman -Rs pipewire-audio
+sudo pacman -Rs pipewire-pulse
+sudo pacman -Rs pulsemixer
+sudo pacman -Rs pulse
+sudo pacman -Rs pulseaudio
+sudo pacman -Rs pipewire
+sudo pacman -Rs wireplumber
+pipewire 
+pipewire --help
+wireplumber -c
+wireplumber
+systemctl --user status pipewire wireplumber
+reboot
+sudo pacman -Syu wireplumber pipewire-pulse pulsemixer
+sudo pacman -Syu sof-firmware
+pulsemixer 
+systemctl --user restart wireplumber
+systemctl --user restart pipewire
+cd .config/nushell/
+nvim config.nu
+nvim env.nu
+nvim
+nvidia-smi 
+with-env {$env.GBM_BACKEND: "", $env.__NV_PRIME_RENDER_OFFLOAD: 0} { firefox-developer-edition }
+htop
+fuser -v /run/user/1000/pipewire-0.loc
+fuser -v /run/user/1000/pipewire-0.lock
+cd .config/nushell/
+nvim env.nu
+with-env {$env.GBM_BACKEND: "", $env.__NV_PRIME_RENDER_OFFLOAD: 0} { firefox-developer-edition }
+nvidia-smi 
+with-env {$env.GBM_BACKEND: "", $env.__NV_PRIME_RENDER_OFFLOAD: 0} { firefox-developer-edition }
+cd .config/nushell/
+pulsemixer 
+nvim env.nu
+shutdown -P
+journalctl -xeu pipewire-pulse.service
+journalctl -xeu pipewire-pulse
+journalctl -xeu pipewire
+journalctl 
+journalctl -xeu pipewire
+journalctl -xeub pipewire
+sudo journalctl -xeu pipewire
+pacman -S pipewire
+sudo pacman -S pipewire
+sudo pacman -S wireplumber 
+sudo pacman -S pulsemixer 
+killall firefox
+journalctl -b
+pacman -Qs pipewire
+pacman -S pipewire-media-session
+sudo pacman -S pipewire-media-session
+sudo pacman -Rs waybar-hyprland-git
+systemctl --user restart pipewire
+journalctl -b
+yay -S waybar-hyprland-git
+yay -S waybar-pulseaudio
+waybar-mpris 
+waybar
+cd .config/hypr/
+ls
+pacman -S pulseaudio pulseaudio-bluetooth pulseaudio-ctl bluez bluez-utils blueman-git
+yay -S pulseaudio pulseaudio-bluetooth pulseaudio-ctl bluez bluez-utils blueman-git
+pulseaudio pulseaudio-bluetooth pulseaudio-ctl bluez bluez-utils blueman-git
+systemctl --user stop pulseaudio.socket<\n>systemctl --user stop pulseaudio.service<\n>systemctl --user disable pulseaudio.socket<\n>systemctl --user disable pulseaudio.service<\n><\n>systemctl --user enable pipewire.socket<\n>systemctl --user enable pipewire.service<\n>systemctl --user start pipewire.socket<\n>systemctl --user start pipewire.service
+yay -S pipewire pipewire-alsa pipewire-pulse pipewire-jack
+systemctl --user stop pulseaudio.socket<\n>systemctl --user stop pulseaudio.service<\n>systemctl --user disable pulseaudio.socket<\n>systemctl --user disable pulseaudio.service<\n><\n>systemctl --user enable pipewire.socket<\n>systemctl --user enable pipewire.service<\n>systemctl --user start pipewire.socket<\n>systemctl --user start pipewire.service<\n>
+pulsemixer 
+journalctl -b
+cd .config/hypr/
+tele
+telegram-desktop 
+pacman -S sof-firmware
+sudo pacman -S sof-firmware
+yay -Rs pulseaudio pulseaudio-bluetooth pulseaudio-ctl bluez bluez-utils blueman-git
+yay -Rs pulseaudio-ctl bluez bluez-utils blueman-git
+yay -Rs pipewire pipewire-alsa pipewire-pulse pipewire-jack
+yay -Rs pipewire pipewire-alsa pipewire-pulse pipewire-jack wireplumber
+yay -Rs pipewire pipewire-alsa pipewire-pulse pipewire-jack wireplumber jack
+yay -Rs pipewire pipewire-alsa pipewire-pulse pipewire-jack wireplumber portaudio
+ss -s
+ss -a
+ss -a | save socks
+netstat
+ps -e | grep pulse
+ps | grep pulse
+pipewire-pulse --help
+pipewire-pulse -k
+pulseaudio
+pulsemixer 
+ps x 
+ps -x 
+ps --help
+ps | grep pulse
+ps
+journalctl -b
+cd .config/hypr/component/waybar/
+mpd
+mpd --help
+mpd --kill
+waybar
+waybar --help
+systemctl --user restart waybar
+systemctl restart waybar
+reboot
+cd .config/hypr/component/waybar/
+pavucontol
+pacman -S pavucontrol
+sudo pacman -S pavucontrol
+pavucontrol 
+sudo pacman -R pulsemixer 
+systemctl --user restart waybar
+journalctl -xe
+systemctl --user restart waybar
+journalctl -b
+cd .config/hypr/component/waybar/
+journalctl -xe
+sudo pacman -S pulseaudio
+systemctl --user restart waybar
+pulsemixer
+journalctl -b
+sudo pacman -Rs pipewire
+sudo pacman -Rs pipewire | clip
+sudo pacman -Rs pipewire | use clip
+sudo pacman -Rs pipewire | save clip
+sudo rm -rf /var/lib/pacman/db.lck
+sudo pacman -Rs pipewire | save clip
+sudo pacman -Rs pipewire 
+sudo rm -rf /var/lib/pacman/db.lck
+sudo pacman -Rs pipewire 
+sudo pacman -Rs pipewire | save --append clip
+sudo rm -rf /var/lib/pacman/db.lck
+sudo pacman -Rs pipewire | save "out.txt"
+cat out.txt
+logout
+journalctl -b
+sudo pacman -Rs pipewire
+sudo pacman -S pipewire-pulse
+sudo pacman -S pulsemixer
+pulsemixer
+journalctl -b
+sudo rm -rf /run/user/1000/pulse/native 
+journalctl -b
+lsof
+sudo pacman -S lsof
+lsof
+pkill
+pkill pipewire
+lsof
+journalctl -b
+pkill pipewire
+journalctl -b
+sudo pacman -S pulseaudio pulseaudio-bluetooth
+pulsemixer 
+pulseaudio 
+sudo pacman -R pipewire-avb pipewire-aes67 pipewire 
+sudo pacman -R pipewire 
+sudo pacman -R pipewire-alsa
+sudo pacman -R pipewire-alsa pulseaudio-als
+sudo pacman -R pipewire-alsa pulseaudio-alsa
+sudo pacman -R gnome-tweaks 
+sudo pacman -R pipewire-alsa pulseaudio-alsa
+sudo pacman -R pipewire-alsa 
+sudo pacman -R gnome-keyring-daemon 
+sudo pacman -R gnome-keyring
+sudo pacman -R pipewire-alsa 
+journalctl -b
+pkill pipewire
+pulsemixer 
+tele
+pkill pipewire
+telegram-desktop 
+nvidia-smi 
+with-env {$env.GBM_BACKEND: "", $env.__NV_PRIME_RENDER_OFFLOAD: 0} { firefox-developer-edition }
+nvidia-smi 
+$env.__NV_PRIME_RENDER_OFFLOAD = 0
+nvidia-smi 
+journalctl -b
+sudo pacman -R wireplumber 
+sudo pacman -R pipewire-alsa
+sudo pacman -R gnome-settings-daemon
+sudo pacman -R pipewire-alsa
+sudo pacman -R wireplumber 
+sudo pacman -R pipewire-jack
+sudo pacman -S jack2
+sudo pacman -R pipewire-jack
+sudo pacman -R wireplumber 
+sudo pacman -R wireplumber waybar-hyprland-git
+yay -Syu waybar-hyprland-git
+sudo pacman -R wireplumber waybar-hyprland-git
+yay -S waybar-hyprland-git
+yay -S otf-font-awesome
+systemctl --user restart waybar
+$env.__NV_PRIME_RENDER_OFFLOAD = 0
+nvidia-smi 
+pkill pipewire
+sudo pacman -S pipewire-pulse 
+cat /usr/share/pipewire/
+cat /usr/share/pipewire/pipewire.conf
+sudo pacman -S pipewire-audio
+sudo pacman -S pipewire-alas
+sudo pacman -S pipewire-alsa
+systemctl stop pulseaudio
+systemctl start pipewire-pulse
+systemctl --user stop pulseaudio
+systemctl --user stop pipewire-pulse
+systemctl --user start pipewire-pulse
+systemctl --user start pipewire
+systemctl --user restart pipewire
+journalctl -b
+pulsemixer 
+sudo pacman -Syu alsa-utils
+sudo systemctl enable --now rtkit-daemon
+cat .config/pipewire/
+cat .config/pipewire/pipewire.conf
+nvim .config/pipewire/pipewire.conf
+rm -rf  .config/pipewire/
+nvidia-smi 
+with-env {$env.GBM_BACKEND: "", $env.__NV_PRIME_RENDER_OFFLOAD: 0} { firefox-developer-edition }
+nvidia-smi 
+with-env {$env.__NV_PRIME_RENDER_OFFLOAD: 0} { firefox-developer-edition }
+pulsemixer 
+nvidia-smi 
+$env.__NV_PRIME_RENDER_OFFLOAD=0 firefox-developer-edition
+nvidia-smi 
+$env.__NV_PRIME_RENDER_OFFLOAD=0 
+set $env.__NV_PRIME_RENDER_OFFLOAD=0 
+set $env.__NV_PRIME_RENDER_OFFLOAD 0
+$env.__NV_PRIME_RENDER_OFFLOAD=0 
+$env.__NV_PRIME_RENDER_OFFLOAD 0 
+$env.__NV_PRIME_RENDER_OFFLOAD = 0 
+firefox-developer-edition 
+fire
+nvidia-smi 
+firefox-developer-edition 
+$env.__NV_PRIME_RENDER_OFFLOAD = 0 | firefox-developer-edition 
+cd .config/nushell/
+v .
+cd .config/nushell/
+cd ..
+svn checkout https://github.com/LukeSmithxyz/voidrice/trunk/.config/zathura/zathurarc
+pulsemixer 
+svn checkout https://github.com/LukeSmithxyz/voidrice/trunk/.config/zathura
+rm -rf ./*/*.svn
+rm -rf ./*/.svn
+ls -a zathura/
+mkdir Music
+ls .config/mpd/
+mkdir .config/mpd/playlists
+ls .config/mpv
+mpd
+sudo pacman -Syu timidity
+mpd
+/etc/mpd.conf
+sudo nvim /etc/mpd.conf
+mpd
+systemctl enable mpd
+mpd
+killall mpd
+mpd
+mpd --help
+btop
+pacman -S spotify
+help aliases
+tele
+nvidia-smi 
+ls
+rm -rf `10-nvidia-drm-outputclass.conf`
+rm -rf clip log socks log.txt out.txt grub.cfg
+ls
+rm -rf temp.txt test.log test.ltxt
+rm -rf temp.txt test.log test.txt
+ls
+cd .config/
+cd nushell/
+source .config/nushell/config.nu
+help aliases
+pacman -S spotify
+yay -S spotify-git
+upower -d
+yay -S spotify
+help aliases
+nmcli
+nmtui
+cp
+help aliases
+mkdir -p
+help aliases
+nmtui
+v
+v .
+v 
+v .
+v ~/.config/nvim/lua/user/init.lua
+cd ~/.config/nvim/lua/user/
+v .
+WINIT_UNIX_BACKEND=x11 neovide
+nvidia-smi 
+v .
+git clone git@github.com:fredizzimo/neovide.git
+cd neovide/
+ls
+git checkout fsundvik/improve-render-loop
+git build --release
+nmtui
+cargo build --release
+./target/release/neovide
+./target/release/neovide --nofork
+yay -Syu neovim-git
+nvim -v
+yay -Syu wl-clipboard
+./target/release/neovide --nofork
+sudo mv ./target/release/neovide /usr/bin/neovide
+nmtui
+cd .config/nvim/lua/user/
+v .
+neovide
+cd .config/nvim/lua/user/
+v .
+nvidia-smi
+upower -d
+cd .config/nvim/lua/user/
+v .
+lf
+lfub
+cd .config/nushell/
+v config.nu
+cd .config/nvim/lua/user/
+v options.lua
+cd
+cd .config/nushell/
+v config.nu
+echo $env.XDG_CONFIG_HOME
+rofi
+wofi
+nmtui
+p -Syu wofi
+nvidia-smi
+cd /usr/share/wayland-sessions/
+ls
+sudo v ./hyprland.desktop
+cd .local/bin/
+v hyprrc
+$env.__NV_PRIME_RENDER_OFFLOAD = 0 | discord 
+ka discord
+ka Discord
+nvidia-smi
+$env.__NV_PRIME_RENDER_OFFLOAD = 0 | $env.__GLX_VENDOR_LIBRARY_NAME = "" | discord 
+ka Discord
+yay -Syu hyprland-hidpi-xprop-git
+yay -Syu xorg-xwayland
+yay -Syu hyprland-nvidia-hidpi-git
+cd .config/nvim/lua/user/
+v .
+$env.__NV_PRIME_RENDER_OFFLOAD = 0 | $env.__GLX_VENDOR_LIBRARY_NAME = "" | discord 
+$env.WAYLAND_DISPLAY | $env.GBM_BACKEND = "" | $env.__NV_PRIME_RENDER_OFFLOAD = 0 | $env.__GLX_VENDOR_LIBRARY_NAME = "" | discord 
+nvidia-smi
+yay -Syu hyprland-nvidia-git
+nvidia-smi
+cd .local/bin/
+v hyprrc
+echo $env.__GLX_VENDOR_LIBRARY_NAME
+shutdown -P
+cd .local/bin/
+pwd | clip
+pwd | save clipboard
+pwd
+yay -Syu hyprland-nvidia-hidpi-git
+sudo nvim /usr/share/wayland-sessions/hyprland.desktop
+nvidia-smi
+discord
+GDK_DPI_SCALE = 0.5 | discord 
+$GDK_DPI_SCALE = 0.5 | discord 
+$env.GDK_DPI_SCALE = 0.5 | discord 
+$env.GDK_DPI_SCALE = 1.5 | discord 
+$env.GDK_DPI_SCALE = 2 | discord 
+cd .local/bin/
+cd
+cd .config/hypr/
+v hyprland.conf
+discord
+p -S xorg-xeyes
+xeyes
+discord --enable-features=UseOzonePlatform --ozone-platform=wayland 
+nvidia-smi
+discord
+cd .config/hypr/
+v .
+nvidia-smi
+$env.__NV_PRIME_RENDER_OFFLOAD = 0 | kitty
+nvidia-smi 
+$env.__NV_PRIME_RENDER_OFFLOAD = 0 | $env.GBM_BACKEND = "" | kitty
+nvidia-smi 
+$env.__NV_PRIME_RENDER_OFFLOAD = 0 | $env.GBM_BACKEND = "" | $env.__VK_LAYER_NV_optimus = "" | kitty
+nvidia-smi 
+$env.__NV_PRIME_RENDER_OFFLOAD = 0 | $env.GBM_BACKEND = "" | $env.__VK_LAYER_NV_optimus = "" | $env.DRI_PRIME = 0 | kitty
+nvidia-smi 
+$env.__NV_PRIME_RENDER_OFFLOAD = 0 | $env.GBM_BACKEND = "" | $env.__VK_LAYER_NV_optimus = "" | $env.DRI_PRIME = 0 | $env.LIBVA_DRIVER_NAME = "" | kitty
+cat .local/bin/hyprrc
+nvidia-smi 
+$env.__NV_PRIME_RENDER_OFFLOAD = 0 | $env.GBM_BACKEND = "" | $env.__VK_LAYER_NV_optimus = "" | $env.DRI_PRIME = 0 | $env.LIBVA_DRIVER_NAME = "" | $env.XDG_SESSION_TYPE = "" | $env.__NV_PRIME_RENDER_OFFLOAD = "" | kitty
+upower -d
+yay -S wluma-git
+wluma
+sudo wluma
+htop
+nvim .config/nushell/config.nu
+v .config/nushell/config.nu
+cd .config/nushell/
+v config.nu
+echo $env.HOME
+ka kitty
+cd .config/nushell/
+v config.nu
+cd ..
+cd hypr/
+v hyprland.conf
+nvidia-smi 
+$env.__NV_PRIME_RENDER_OFFLOAD = 0 | firefox-developer-edition 
+nvidia-smi 
+nvim .
+v .
+echo $env.XDG_CONFIG_HOME
+echo $env.PATH
+echo $env.XDG_CONFIG_HOME
+ka kitty
+nvidia-smi 
+ls
+cd github-archeoss/
+ls
+$env.__NV_PRIME_RENDER_OFFLOAD = 0 | firefox-developer-edition 
+nvidia-smi 
+$(bash -c 'compgen -c | grep -v fzf | sort -u | fzf --layout=reverse')
+echo $env.XDG_BACKEND
+echo $env.XDG_CONFIG_HOME
+echo $env.XDG_DATA_HOME
+echo $env.XDG_CACHE_HOME
+echo $env.NOTMUCH_CONFIG
+echo $env.GTK2_RC_FILES
+echo $env
+echo $env.WGETRC
+echo $env.GTK2_RC_FILES
+echo $env.INPUTRC
+echo $env.ZDOTDIR
+echo $env.CARGO_HOME
+echo $env.GOPATH
+echo $env.GOMODCACHE
+echo $env.UNISON
+echo $env.ANSIBLE_CONFIG
+echo $env.HISTFILE
+termite
+yay -S termite
+fzf
+yay -Syu bemenu
+ls /boot/
+sudo rm /boot/initramfs-custom.img
+sudo nvim /boot/grub/grub.cfg
+ls /boot
+yay -Syu bemenu
+mkinitcpio --help
+sudo mkinitcpio --config /etc/mkinitcpio.conf
+cat /etc/mkinitcpio.conf
+sudo mkinitcpio --config /etc/mkinitcpio.conf
+sudo mkinitcpio 
+pacman -Syyuu
+p -Syu linux linux-headers nvidia-open-dkms
+du /boot/
+ls /boot
+sudo rm  /boot/initramfs-linux-fallback.img.tmp
+sudo rm  /boot/initramfs-linux-fallback.img
+du /boot
+p -Syu linux linux-headers nvidia-open-dkms
+du /boot
+sudo rm /boot/initramfs-linux-fallback.img
+ls /boot
+du /boot/boot/
+du /boot/grub/
+du /boot/Microsoft/
+du /boot/EFI/
+du /boot/EFI/grub_uefi/
+du /boot/EFI/GRUB/
+du /boot/EFI/Boot/
+du /boot/EFI/LFS/
+du /boot/EFI/Microsoft/
+du /boot/EFI/Microsoft/Boot/
+du /boot/
+du `/boot/System Volume Information/`
+sudo rm /boot/initramfs-linux.img
+p -Syu linux linux-headers nvidia-open-dkms
+ls /boot
+cd /usr/share/wayland-sessions/
+ls
+sudo cp hyprland.desktop ./hyprrc.desktop
+sudo nvim hyprrc 
+nvidia-smi 
+cd .config/hypr/
+v .
+bemenu 
+discord
+termite
+p -Rs termite
+bash
+cat .local/bin/hyprrc
+lock
+~/.config/hypr/scripts/lock
+yay -Sy swaylockd
+yay -Sy swaylock
+cd .config/hypr/
+ls
+v .
+nvidia-smi 
+cd .config/nvim/
+ls
+v lua/user/init.lua
+cd .config/nvim/
+v lua/user/init.lua
+nvidia-smi 
+kill 10819
+nvidia-smi 
+cd neovide/
+./target/release/neovide --nofork
+ls
+v lua/user/init.lua
+cd neovide/
+nvidia-smi 
+upower -d
+tlp
+sudo tlp --help
+cargo build --release
+sudo tlp start
+sudo tlp-stat 
+sudo tlp 
+sudo tlp ac
+sudo tlp start
+sudo tlp recalibrate
+./target/release/neovide --nofork
+sudo tlpui 
+tlpui 
+tlp
+tlp false
+sudo tlp false
+sudo tlpui 
+tlpui
+ka tlpui
+v .
+v --novsync .
+cargo clean
+cd .
+cd .config/nvim/
+cd
+cd .config/nushell/
+v config.nu
+v 
+nvidia-smi 
+v --novsync .
+cd .config/hypr/
+v hyprland.conf
+v --novsync hyprland.conf
+v
+cd .config/hypr/
+v hyprland.conf
+yay -Syu qt6-wayland qt5-wayland
+yay -Syu polkit-kde-agent
+/usr/lib/polkit-kde-authentication-agent-1
+yay -S xdg-desktop-portal-hyprland-git
+pw-volume
+p -S pw-volume
+yay -S pw-volume
+cd .config/hypr/
+v hyprland.conf
+mkdir playground
+rm -rf playground/
+cd
+mkdir playground
+cd playground/
+upower -d
+nvidia-smi 
+git clone git@github.com:qoollo/bob.git
+cd bob/
+cd playground/bob/
+ls
+cd bob-apps/
+cd ..
+cd compose_examples/
+ka waybar
+.config/hypr/scripts/launch_waybar
+ka waybar
+.config/hypr/scripts/launch_waybar
+ka waybar
+yay -S interception-tools
+logseq
+yay -S logseq
+nvidia-smi 
+.config/hypr/scripts/launch_waybar
+upower -d
+yay -S logseq-desktop
+logseq
+sudo logseq
+logseq
+cd Downloads/
+ls
+cd ..
+mkdir bob-gui
+cd bob-gui/
+unzip ../Downloads/bob-management-gui-5-detailed-node.zip ./
+unzip ../Downloads/bob-management-gui-5-detailed-node.zip 
+ls
+unzip ../Downloads/bob-management-gui-front-temp.zip 
+cd bob-management-gui-5-detailed-node/
+cd bob-gui/
+cd bob-management-gui-front-temp/
+yarn build
+next
+npm i
+yarn i
+npm i
+yarn i
+cargo run -- -c server-config.yaml
+yarn 
+cd ..
+unzip `../Downloads/Telegram Desktop/bob.zip`
+yarn run
+cd bob/compose_examples/
+ls
+cd A-BOB-A/
+yarn build
+v docker-compose.yml
+cd bob-gui/
+cd bob-management-gui-5-detailed-node/
+upower -d
+yarn run
+yay -Syu docker-compose
+sudo docker-compose up
+yay -Syu docker
+upower -d
+systemctl enable docker
+systemctl start docker
+nmtui
+sudo docker-compose up
+rustup install stable
+discord
+yarn start
+yarn build
+cd bob-gui/bob/bob-apps/
+ls
+cd bin/
+ls
+cd ..
+ls
+nvim run.sh
+nmvli
+nmcli
+nmtui
+sh run.sh
+sudo docker-compose up
+cargo run -- -c server-config.yaml
+yarn run
+sudo docker-compose up
+sh run.sh
+upower -d
+logseq
+sudo setfacl -Rm "u:archeoss:rwx" /opt/logseq-desktop/
+logseq
+nvidia-smi 
+logseq --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland
+nvidia-smi 
+$env.__NV_PRIME_RENDER_OFFLOAD=0 logseq --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland
+yay -Syu obsidian
+obsidian
+$env.__NV_PRIME_RENDER_OFFLOAD=0 obsidian --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland
+git clone git@github.com:archeoss/Obsidian-Vault.git
+$env.__NV_PRIME_RENDER_OFFLOAD=0 obsidian --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland
+obsidian --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland
+$env.__NV_PRIME_RENDER_OFFLOAD=0 | $env.GBM_BACKEND = "" | obsidian --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland
+$env.__NV_PRIME_RENDER_OFFLOAD=0 $env.GBM_BACKEND = "" obsidian --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland
+nvidia-smi 
+$env.__NV_PRIME_RENDER_OFFLOAD=0 $env.GBM_BACKEND = "" | obsidian --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland
+yay -Syu  logseq-desktop-wayland-bin
+df h
+df -h
+htop
+cd .config/nushell/
+v config.nu
+dust ./
+du
+du /boot/
+yay -Syu anki
+yay -Syu texlive-most
+yay -Syu texlive-most todoist-appimage
+$env.__NV_PRIME_RENDER_OFFLOAD=0 $env.GBM_BACKEND = "" | todoist --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland
+todoist
+nvidia-smi 
+nogpu todoist
+nogpu | todoist
+nvidia-smi 
+nogpu | todoist
+todoist
+v .
+nvidia-smi 
+nogpu | v .
+cd .config/nushell/
+v config.nu
+nogpu v .
+nogpu v 
+nvidia-smi 
+nogpu v 
+nogpu v .
+nogpu v
+nogpu neovide
+nogpu v
+nogpu neovide
+nvidia-smi 
+neovide
+nvidia-smi 
+nogpu neovide
+nvidia-smi 
+neovide
+nvidia-smi 
+cd .config/nushell/
+v config.nu
+nogpu v 
+nogpu neovide
+nogpu v
+nu --help
+v | nogpu
+todoist --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland | $env.__NV_PRIME_RENDER_OFFLOAD=0 $env.GBM_BACKEND = "" 
+nvidia-smi 
+neovide | $env.__NV_PRIME_RENDER_OFFLOAD=0 $env.GBM_BACKEND = "" 
+nogpu | v
+nogpu v
+nogpu neovide
+nvidia-smi 
+nogpu neovide
+nogpu neovide .bash_history
+cd .config/nushell/
+nogpu neovide config.nu
+nogpu neovide
+cd .config/nushell/
+nogpu neovide config.nu
+upower -d
+nogpu neovide config.nu
+nogpu "neovide config.nu"
+nogpu neovide config.nu
+upower -d
+nogpu neovide config.nu
+cd .config/nushell/
+nogpu neovide config.nu
+nvidia-smi 
+nogpu discord
+nogpu v
+echo $nu.scope.aliases
+help aliases
+help aliases | where v
+help aliases | where name=v
+help aliases | where name = v
+help aliases | where $name = v
+help aliases | where name = v
+help aliases | where name == v
+help aliases | where name == v | get expansion
+if (help aliases | where name == v | get expansion) {echo 1} else {echo 2}
+if (help aliases | where name == v) {echo 1} else {echo 2}
+help aliases | where name == v | get expansion | default "test"
+help aliases | where name == t | get expansion | default "test"
+help aliases | where name == t
+help aliases | where name == t | first
+help aliases | where name == t | get
+help aliases | where name == t | insert "test" | first
+help aliases | where name == t | get expansion | insert expansion "test" | first
+help aliases | where name == t | get expansion | insert expansion "test" 
+help aliases | where name == v | get expansion | insert expansion "test" 
+help aliases | where name == v | get expansion 
+help aliases | where name == v | get expansion | insert "test" 
+help aliases | where name == v | get expansion | insert 1 "test" 
+help aliases | where name == t | get expansion | insert 1 "test" 
+help aliases | where name == t | get expansion | upsert"test" 
+help aliases | where name == t | get expansion | upsert "test" 
+help aliases | where name == t | get expansion | upsert 1 "test" 
+help aliases | where name == t  | insert expansion "test" | get expansion 
+help aliases | where name == v  | insert expansion "test" | get expansion 
+help aliases | where name == v  | insert expansion "test" 
+help aliases | where name == v  | insert "test" 
+help aliases | where name == v  |<\n>
+help aliases | where name == t | get expansion | append "test" 
+help aliases | where name == v | get expansion | append "test" 
+help aliases | where name == v | get expansion | append "test" | first
+help aliases | where name == t | get expansion | append "test" | first
+nogpu v
+nogpu neovide
+nogpu
+nogpu v
+echo help aliases
+echo (help aliases)
+nogpu v
+echo nogpu
+echo (nogpu)
+echo (nogpu v)
+ka kitty
+cd .config/nushell/
+v config.nu
+nvidia-smi 
+sudo nvidia-smi 
+sudo nvidia-smi drain -p 0000:2B:00.0 -m 1
+sudo nvidia-smi 
+sudo nvidia-smi --help
+nvidia-smi 
+systemctl daemon-reload
+nvidia-smi 
+journalctl -b | grep suspend
+journalctl -b | ^grep suspend
+sudo journalctl -b | ^grep suspend
+systemctl nvidia-resume
+systemctl start nvidia-resume
+nvidia-smi 
+ls /etc/systemd/
+ls /etc/systemd/system/
+systemctl status nvidia-suspend nvidia-hibernate nvidia-resume
+p -S nvidia-utils
+systemctl disable nvidia-resume nvidia-hibernate nvidia-suspend
+nvidia-smi 
+shutdown -P
+sudo nvim /usr/share/wayland-sessions/hyprland.desktop
+sudo nvim /usr/share/wayland-sessions/hyprrc.desktop
+nogpu v .config/nushell/config.nu
+v .config/nushell/config.nu
+nvidia-smi 
+v .
+nvidia-smi 
+upower -d
+discord
+$env.__NV_PRIME_RENDER_OFFLOAD=1 v .
+nvidia-smi 
+$env.__NV_PRIME_RENDER_OFFLOAD=1 $env.__GLX_VENDOR_LIBRARY_NAME=nvidia v .
+nvidia-smi 
+$env.__NV_PRIME_RENDER_OFFLOAD = 1 $env.__GLX_VENDOR_LIBRARY_NAME = nvidia | v .
+$env.__NV_PRIME_RENDER_OFFLOAD = 1 | $env.__GLX_VENDOR_LIBRARY_NAME = nvidia | v .
+nvidia-smi 
+cd .config/nushell/
+$env.__NV_PRIME_RENDER_OFFLOAD = 1 | $env.__GLX_VENDOR_LIBRARY_NAME = nvidia | v config.nu
+p -S nvidia-prime
+prime-run v config.nu
+prime-run "v ."
+prime-run neovide
+nvidia-smi 
+glxinfo | grep "OpenGL renderer"
+glxinfo | ^grep "OpenGL renderer"
+glxinfo | ripgrep "OpenGL renderer"
+glxinfo | ^grep "OpenGL renderer"
+glxinfo | ^ripgrep "OpenGL renderer"
+glxinfo | ^grep "OpenGL renderer"
+prime-runglxinfo | ^grep "OpenGL renderer"
+prime-run glxinfo | ^grep "OpenGL renderer"
+ripgrep
+^ripgrep
+du
+cat
+cat .local/bin/hyprrc
+cargo install ripgrep
+prime-run glxinfo | grep "OpenGL renderer"
+ripgrep
+cargo install ripgrep
+rg
+v .config/nushell/config.nu
+prime-run glxinfo | grep "OpenGL renderer"
+prime-run glxinfo | rg "OpenGL renderer"
+prime-run glxinfo | grep "OpenGL renderer"
+prime-run glxinfo | ^grep "OpenGL renderer"
+prime-run glxinfo | "grep" "OpenGL renderer"
+prime-run glxinfo | ripgrep "OpenGL renderer"
+prime-run glxinfo | rg "OpenGL renderer"
+prime-run glxinfo | grep "OpenGL renderer"
+prime-run glxinfo | rg "OpenGL renderer"
+prime-run glxinfo | ^grep "OpenGL renderer"
+prime-run glxinfo | grep "OpenGL renderer"
+prime-run glxinfo | ^grep "OpenGL renderer"
+prime-run glxinfo | rg "OpenGL renderer"
+nvidia-smi 
+journalctl
+p -S gnome-keyring
+systemctl enable nvidia-persistenced
+journalctl
+nvidia-smi 
+prime-run neovide
+nvidia-smi 
+v .
+nvidia-smi 
+systemctl enable nvidia-suspend nvidia-hibernate
+nvidia-smi 
+nvidia-resume
+systemctl enable nvidia-resume
+nvidia-resume
+nvidia-smi 
+/usr/bin/nvidia-sleep.sh
+cat /usr/bin/nvidia-sleep.sh
+nvidia-smi 
+prime-run neovide --nofork --novsync
+journalctl 
+cat /etc/modprobe.d/nvidia-power-management.conf
+touch /etc/modprobe.d/nvidia-power-management.conf
+sudo nvim /etc/modprobe.d/nvidia-power-management.conf
+sudo nvim /etc/modprobe.d/nvidia.conf
+mkinitcpio --help
+mkinitcpio
+sudo mkinitcpio
+nvidia-smi 
+sudo rmmod nvidia_uvm
+sudo modmod nvidia_uvm
+sudo modprobe nvidia_uvm
+nvidia-smi 
+nvidia-smi -pm ENABLED
+touch /etc/rc.local
+sudo nvim /etc/rc.local
+nvidia-smi
+sudo blkid
+cat /etc/default/grub
+sudo rm -rf /boot/grub/grub2.cfg
+sudo nvim /boot/grub/grub.cfg
+cat /etc/modprobe.d/nvidia.conf
+nvidia-smi
+lscpi
+lspci
+nvidia-smi
+p -S nvidia-open-dkms
+systemctl disable nvidia-resume nvidia-hibernate nvidia-suspend
+journalctl -b | grep suspend
+sudo journalctl -b | grep suspend
+sudo journalctl -b
+sudo journalctl -b | grep suspend
+sudo journalctl -b
+systemctl enable nvidia-resume nvidia-hibernate nvidia-suspend
+systemctl disable nvidia-resume nvidia-hibernate nvidia-suspend
+systemctl enable nvidia-resume nvidia-hibernate nvidia-suspend
+cat /usr/lib/systemd/system/nvidia-resume.service
+glxinfo | ^grep "OpenGL renderer"
+prime-run glxinfo | ^grep "OpenGL renderer"
+prime-run glxinfo
+modprobe nvidia
+prime-run glxinfo
+strings /sys/firmware/acpi/tables/DSDT | grep -i 'windows ' | sort | tail -1
+sudo strings /sys/firmware/acpi/tables/DSDT | grep -i 'windows ' | sort | tail -1
+upower -d
+sudo strings /sys/firmware/acpi/tables/DSDT | grep -i 'windows ' | sort | tail -1
+sh
+bash
+zsh
+sh
+sudo strings /sys/firmware/acpi/tables/DSDT | grep -i 'windows ' | sort | tail -1<\n>
+sudo strings /sys/firmware/acpi/tables/DSDT | grep -i 'windows ' | sort | tail -1
+sudo strings /sys/firmware/acpi/tables/DSDT | grep -i 'windows ' | sort 
+sudo strings /sys/firmware/acpi/tables/DSDT |<\n>
+sudo journalctl -b -1 | curl -F 'file=@-' 0x0.st
+ss
+cat .config/hypr/component/waybar/config
+.config/hypr/scripts/screenshot
+p -S nvidia-dkms
+sudo nvim /etc/login.defs
+p -S nvidia-open-dkms
+p -S nvidia-dkms
+nvidia-smi
+p -S nvidia-dkms
+hibernate
+sudo swapon -s
+cat /etc/default/grub
+cat /boot/grub/grub.cfg
+nvidia-sleep.sh "resume"
+sudo nvidia-sleep.sh "resume"
+nvidia-smi
+sudo nvidia-sleep.sh "resume"
+cat /usr/lib/systemd/system/nvidia-resume.service
+sudo echo /proc/driver/nvidia/suspend
+sudo echo "resume" > /proc/driver/nvidia/suspend
+sudo echo "resume" | /proc/driver/nvidia/suspend
+sh
+ls /proc/driver/
+ls /proc/driver/nvidia/
+sudo echo "resume" | sudo save /proc/driver/nvidia/suspend
+sudo echo "resume" | save /proc/driver/nvidia/suspend
+sudo echo "resume" | save --append /proc/driver/nvidia/suspend
+sudo
+nvidia-smi
+df -h
+sudo sh
+upower -d
+sudo nvim /etc/modprobe.d/nvidia.conf
+nvidia-smi
+nvidia-smi --help
+nvidia-smi vgpu
+nvidia-smi mig
+nvidia-smi
+nvidia-smi --help
+nvidia-smi gpn
+nvidia-smi gpm
+nvidia-smi gpm -g
+nvidia-smi gpm -i
+nvidia-smi gpm -i1
+nvidia-smi gpm -i 1
+nvidia-smi gpm -i=1
+nvidia-smi gpm -i=0
+nvidia-smi gpm -i,0
+nvidia-smi --help
+nvidia-smi power-hint
+nvidia-smi power-hint -l
+nvidia-smi power-hint -gc
+nvidia-smi power-hint -t
+nvidia-smi --help
+nvidia-smi topo
+nvidia-smi topo -m
+nvidia-smi topo -mp
+nvidia-smi topo -c
+nvidia-smi topo -n
+nvidia-smi topo -n 1
+nvidia-smi topo -n -i 1
+nvidia-smi topo -ni 1
+nvidia-smi topo -i 1
+nvidia-smi topo -i 0
+nvidia-smi topo -i 0 -n
+nvidia-smi topo -i -n 0 
+nvidia-smi topo -i 0 
+nvidia-smi topo -ni 0 
+nvidia-smi topo -n -i 0 
+nvidia-smi topo -ni 0 
+nvidia-smi topo -in 0 
+nvidia-smi --help
+nvidia-smi nvlink
+nvidia-smi nvlink -i 0
+nvidia-smi nvlink -i 1
+nvidia-smi nvlink -i 2
+prime-run neovide --nofork --novsync
+nvidia-smi pmon
+nvidia-smi --help
+nvidia-smi -pm 1
+nvidia-smi -L
+nvidia-smi -r
+sudo nvidia-smi -r
+nvidia-smi
+nvidia-smi -r
+sudo nvidia-smi -r
+systemctl disable nvidia-resume nvidia-hibernate nvidia-suspend
+systemctl enable nvidia-resume nvidia-hibernate nvidia-suspend
+nvidia-smi -lgc 300,1500
+sudo nvidia-smi -lgc 300,1500
+nvidia-smi 
+nvidia-debugdump 
+nvidia-debugdump --list
+nvidia-bug-report.sh 
+sudo nvidia-bug-report.sh 
+ls
+cat nvidia-bug-report.log.gz
+nvidia-bug-report.sh --help
+ls
+tar -xf 
+tar -xf nvidia-bug-report.log.gz
+gzip nvidia-bug-report.log.gz
+gzip -d nvidia-bug-report.log.gz
+ls
+systemctl enable nvidia-powerd
+nvidia-smi
+systemctl status nvidia-persistenced
+lsmod grep | nvidia
+lsmod | grep nvidia
+sudo journalctl -b | grep PreserveVideoMemoryAllocations
+journalctl -b | grep PreserveVideoMemoryAllocations
+cat /etc/modprobe.d/nvidia.conf
+sudo dmesg | grep PreserveVideoMemoryAllocations
+dmesg | grep PreserveVideoMemoryAllocations
+dmesg
+dmesg > log
+dmesg | save log
+.config/hypr/scripts/screenshot
+sudo mkinitcpio
+cat log
+dmesg | save log
+rm log
+dmesg | save log
+cat log
+sudo nvim /etc/mkinitcpio.conf
+sudo mkinitcpio
+systemctl disable nvidia-powerd
+nvidia-smi
+neovide
+dmesg
+prime-run neovide --nofork --novsync
+ka rustup
+ka rustc
+nvidia-smi
+prime-run neovide --nofork --novsync
+sudo nvim /etc/mkinitcpio.conf
+.config/hypr/scripts/screenshot
+sudo nvim /etc/modprobe.d/nvidia.conf
+systemctl disable nvidia-resume nvidia-hibernate nvidia-suspend
+sudo nvim /etc/modprobe.d/nvidia.conf
+sudo cp /etc/modprobe.d/nvidia.conf ./
+sudo nvim /etc/modprobe.d/nvidia.conf
+sudo mkinitcpio
+nvidia-smi
+systemctl enable nvidia-resume nvidia-hibernate nvidia-suspend
+nvidia-smi
+sudo mv ./nvidia.conf /etc/modprobe.d/nvidia.conf 
+df -h
+sudo nvim /etc/modprobe.d/nvidia.conf
+sudo mkinitcpio
+sudo mkinitcpio --config /etc/mkinitcpio.conf
+nvidia-smi
+cd .config/hypr/
+ls
+v hyprland.conf
+brightnessctl
+yay -Syu brightnessctl
+yay -Syu
+nvidia-smi
+upower -d
+nmtui
+upower -d
+discord
+nvidia-smi
+cd .config/hypr/
+v hyprland.conf
+cd .config/hypr/
+v hyprland.conf
+p -S grim
+grimshot
+p -S grimshot
+yay -S grimshot
+yay -Syu swaync
+swaync
+ka dunst
+swaync
+ka waybar
+waybar
+.config/hypr/scripts/launch_waybar
+ka waybar
+.config/hypr/scripts/launch_waybar &
+yay -Syu wdisplays
+wdisplays 
+ka waybar
+.config/hypr/scripts/launch_waybar &
+ka waybar
+.config/hypr/scripts/launch_waybar &
+ka waybar
+.config/hypr/scripts/launch_waybar &
+ka waybar
+.config/hypr/scripts/launch_waybar &
+ka waybar
+.config/hypr/scripts/launch_waybar &
+spotify &
+.config/hypr/scripts/launch_waybar &
+ka waybar
+.config/hypr/scripts/launch_waybar &
+cd .config/hypr/
+v .
+p -S noto-fonts-emoji
+p -S openvpn
+cd
+mkdir vpn
+cd vpn
+touch run.sh
+nvim run.sh
+chmod +x run.sh
+sudo ./run.sh rsv.PO.ovpn 
+sudo ./run.sh rsv.LV.ovpn
+cd vpn/
+cat login
+openvpn rsv.AU.ovpn
+rm -rf ./rsv.*
+sudo openvpn rsv.AU.ovpn
+spotify &
+yay -Syu gbm
+re
+.config/hypr/scripts/launch_waybar &
+cd .config/hypr/
+$env.__NV_PRIME_RENDER_OFFLOAD = 1 | $env.__GLX_VENDOR_LIBRARY_NAME = nvidia | v hyprland.conf
+./autostart
+ka waybar
+ka autostart
+ka rgb
+htop
+journalctl -b 
+ka waybar
+cd .config/hypr/
+v hyprland.conf
+echo $env.HOME
+.config/hypr/autostart
+cd .config/hypr/
+v autostart
+.config/hypr/
+v .
+nvidia-smi
+htop
+swaymsg
+p -S otf-font-awesome
+p -S ttf-roboto
+p -S ttf-jetbrains-mono
+ka waybar
+.config/hypr/scripts/launch_waybar &
+yay -Syu ttf-ms-win11-autoA
+yay -Syu ttf-ms-win11-auto
+yay -Syu ttf-ms-win10-auto
+tlp
+tlp discharge
+upower -d
+sudo tlp discharge
+sudo pacman -S ntfs-3g
+mkdir /windows
+sudo mkdir /windows
+fdisk -l
+sudo fdisk -l
+mount /dev/nvme0n1p3 /windows
+sudo mount /dev/nvme0n1p3 /windows
+yay -Syu ttf-ms-win11-auto
+nmtui
+umount ~/.cache/yay/ttf-ms-win11-auto/src/mnt/http
+cd vpn/
+sudo ./run.sh rsv.LV.ovpn
+yay -Syu ttf-ms-win11-auto
+umount ~/.cache/yay/ttf-ms-win11-auto/src/mnt/http
+ka http
+umount ~/.cache/yay/ttf-ms-win11-auto/src/mnt/http
+ka yay
+btm
+umount ~/.cache/yay/ttf-ms-win11-auto/src/mnt/http
+yay -Syu ttf-ms-win11-auto
+cd vpn/
+yay -S all-repository-fonts 
+yay -S xorg-fonts-alias-cyrillic ttf-nerd-fonts-symbols-mono
+yay -S xorg-fonts-cyrillic
+yay -S powerline-common-2.8.3-2 xorg-fonts-alias-cyrillic xorg-fonts-alias-misc-1.0.5-1 
+yay -S adobe-source-sans-fonts  adobe-source-serif-fonts  awesome-terminal-fonts  gentium-plus-font
+yay -S ttf-roboto-mono inter-font  libertinus-font  noto-fonts-cjk  noto-fonts-extra  opendesktop-fonts
+ka waybar
+.config/hypr/scripts/launch_waybar &
+yay -S ttf-roboto-mono inter-font  libertinus-font  noto-fonts-extra  opendesktop-fonts
+ka waybar
+.config/hypr/scripts/launch_waybar &
+yay -S all-repository-fonts 
+df -h
+sudo ./run.sh rsv.PO.ovpn
+yay -S all-repository-fonts 
+yay -S ttf-fira-mono terminus-font
+ka waybar
+.config/hypr/scripts/launch_waybar &
+yay -S all-repository-fonts 
+yay -S ttf-cormorant wqy-bitmapfont ttf-ubuntu-font-family ttf-croscore ttf-monofur ttf-cascadia-code
+ka waybar
+.config/hypr/scripts/launch_waybar &
+.config/hypr/scripts/launch_waybar &
+ka waybar
+.config/hypr/scripts/launch_waybar &
+yay -S all-repository-fonts 
+yay -S ttf-junicode
+ka waybar
+.config/hypr/scripts/launch_waybar &
+yay -S powerline-fonts
+ka waybar
+.config/hypr/scripts/launch_waybar &
+yay -S all-repository-fonts 
+yay -S ttf-ionicons otf-overpass otf-latinmodern-math otf-cormorant
+ka waybar
+.config/hypr/scripts/launch_waybar &
+yay -S ttf-fira-code otf-cascadia-code ttf-ibm-plex ttf-proggy-clean ttf-joypixels
+ka waybar
+.config/hypr/scripts/launch_waybar &
+yay -S all-repository-fonts 
+sudo nvim /etc/pacman.conf
+yay -S all-repository-fonts 
+ka waybar
+.config/hypr/scripts/launch_waybar &
+yay -Rs all-repository-fonts 
+du /usr/share
+du /usr/share/fonts/
+du /usr/share/fonts/TTF/
+p -Rs ttf-iosevka
+p -Rs iosevka
+expac "%n %m" -l'\n' -Q $(pacman -Qq) | sort -rhk 2 | less
+sh
+p -S expac
+expac "%n %m" -l'\n' -Q $(pacman -Qq) | sort -rhk 2 | less
+p -Rs ttf-sarasa-gothic
+p -R ttf-sarasa-gothic all-repository-fonts
+p -R all-repository-fonts
+p -R ttf-sarasa-gothic
+p -R ttc-iosevka-slab
+ka waybar
+.config/hypr/scripts/launch_waybar &
+p -Rs ttc-iosevka-curly-slab
+p -Rs noto-fonts-cjk
+ka waybar
+.config/hypr/scripts/launch_waybar &
+p -Rs ttc-iosevka-curly ttc-iosevka
+ka waybar
+.config/hypr/scripts/launch_waybar &
+p -Rs ttc-iosevka-etoile adobe-source-han-serif-otc-fonts ttc-iosevka-aile
+ka waybar
+.config/hypr/scripts/launch_waybar &
+p -Rs adobe-source-han-sans-otc-fonts adobe-source-han-serif-cn-fonts
+ka waybar
+.config/hypr/scripts/launch_waybar &
+p -Rs ttc-iosevka-ss17 ttc-iosevka-ss15 ttc-iosevka-ss11 ttc-iosevka-ss10 ttc-iosevka-ss09 ttc-iosevka-ss12 ttc-iosevka-ss03 ttc-iosevka-ss08 ttc-iosevka-ss02 ttc-iosevka-ss18
+ka waybar
+.config/hypr/scripts/launch_waybar &
+p -Rs ttc-iosevka-ss05 ttc-iosevka-ss14 ttc-iosevka-ss01 ttc-iosevka-ss07 ttc-iosevka-ss16 ttc-iosevka-ss06 ttc-iosevka-ss13 ttc-iosevka-ss04 
+ka waybar
+.config/hypr/scripts/launch_waybar &
+p -Rs ttf-ibm-plex 
+ka waybar
+.config/hypr/scripts/launch_waybar &
+upower -d
+unzip `Downloads/Telegram Desktop/Доки для трудоустройства 2023.zip`
+ls
+cd `Доки для трудоустройства 2023/`
+ls
+`./Заявление на перечисления денег.docx`
+cd .config/hypr/
+ls
+v hyprland.conf
+nvidia-smi
+cd 
+cd .config/hypr/
+v hyprland.conf
+$env.__NV_PRIME_RENDER_OFFLOAD = 1 | $env.__GLX_VENDOR_LIBRARY_NAME = nvidia | v hyprland.conf
+nvidia-smi
+ka waybar
+.config/hypr/scripts/launch_waybar &
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+yay -S procs
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+p -S noto-fonts-emoji powerline-fonts
+ka waybar
+p -S noto-fonts-emoji powerline-fonts
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+ka waybar
+~/.config/hypr/scripts/launch_waybar &
+cp ./Downloads/Marathon_Announce_Press_Kit_Large_* .config/hypr/wallpapers/
+v .hyprland/
+v .config/hypr/hyprland.conf
+cd .config/hypr/
+v hyprland.conf
+v .config/hypr/hyprland.conf
+ka neovide
+ls
+v hyprland.conf
+cd .config/hypr/
+v hyprland.conf
+cd .config/hypr/
+v hyprland.conf
+cd playground/
+ls
+cd
+cd bob-gui/
+s
+ls
+cd bob-management-gui-5-detailed-node/
+v .
+cd .config
+ls
+cd ..
+git init --bare
+git remote add origin git@github.com:archeoss/dotfiles.git<\n>git branch -M master
+git add .config/ .local/bin/
+git status
+git init
+git remote add origin git@github.com:archeoss/dotfiles.git<\n>git branch -M master
+git status
+git add .config/ .local/bin/
+git reset
+ls

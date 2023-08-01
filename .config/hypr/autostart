@@ -1,0 +1,25 @@
+#!/usr/bin/bash
+
+# variables
+config=$HOME/.config/hypr
+scripts=$config/scripts
+
+# notification daemon
+# dunst &
+swaync &
+
+# Apps
+# spotify &
+
+# waybar
+$scripts/launch_waybar &
+$scripts/tools/dynamic &
+
+# wallpaper
+$scripts/wall $config/wallpapers/Marathon_Announce_Press_Kit_Large_14.png &
+# effects
+# $scripts/rgb &
+
+# other
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP &
