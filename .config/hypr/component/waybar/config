@@ -124,9 +124,10 @@
             "warning": 30,
             "critical": 15
         },
-        "format": "{icon}&#8239;{capacity}%",
-        "format-charging": "&#8239;{capacity}%",
-        "format-plugged": "&#8239;{capacity}%",
+        "format": "<span font='Font Awesome 5 Free 11'>{icon}</span> {capacity}%",
+        "format-charging": " {icon} {capacity}%",
+        "format-full": " {icon} Charged",
+        "interval": 30,
         "format-alt": "{icon} {time}",
         // "format-good": "", // An empty format will hide the module
         // "format-full": "",

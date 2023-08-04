@@ -1,1 +1,1 @@
-{"class": "playing", "text": "Foo Fighters - One By One (Expanded Edition) - All My Life (00:29/04:23) ", "tooltip": "All My Life\nby Foo Fighters\nfrom One By One (Expanded Edition)\n(spotify)"}
+{"class": "none", "text": ""}

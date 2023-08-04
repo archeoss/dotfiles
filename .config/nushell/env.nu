@@ -128,9 +128,13 @@ load-env {
     SQLITE_HISTORY: $"($env.XDG_DATA_HOME)/sqlite_history"
 }
 
+
+$env.PATH = ($env.PATH | prepend $"($env.GOPATH)/bin")
+
 # Other program settings:
 # Starship
 $env.STARSHIP_SHELL = "nu"
+mkdir ~/.cache/starship
 
 # Use nushell functions to define your right and left prompt
 $env.PROMPT_COMMAND = { || create_left_prompt }
@@ -143,3 +147,8 @@ $env.PROMPT_INDICATOR_VI_INSERT = ": "
 $env.PROMPT_INDICATOR_VI_NORMAL = "〉"
 $env.PROMPT_MULTILINE_INDICATOR = "::: "
 
+starship init nu | save -f ~/.cache/starship/init.nu
+
+# Carapace completions
+mkdir ~/.cache/carapace
+carapace _carapace nushell | save --force ~/.cache/carapace/init.nu

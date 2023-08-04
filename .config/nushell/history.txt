@@ -1768,3 +1768,370 @@ git status
 git add .config/ .local/bin/
 git reset
 ls
+git add .config/hypr/ .config/nushell/ .config/htop/ .config/nvim/ .config/starship.toml .config/wofi/ .config/zathura/ .config/kitty/ .config/autostart/hyprland.desktop .local/bin/
+ls
+ls -a
+git commit -m "dotfiles v0.1.0" 
+git config --global user.email "archeosanacritis@gmail.com"
+git config --global user.name "Simeon Romanov"
+git commit -m "dotfiles v0.1.0" 
+git push origin master
+nmtui
+cd bob-gui/
+ls
+cd bob-management-gui-5-detailed-node/
+v .
+cd .config/hypr/
+v hyprland.conf
+ka waybar
+.config/hypr/scripts/launch_waybar &
+ka waybar
+.config/hypr/scripts/launch_waybar &
+ka waybar
+.config/hypr/scripts/launch_waybar &
+ka waybar
+.config/hypr/scripts/launch_waybar &
+ka waybar
+.config/hypr/scripts/launch_waybar &
+logseq --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland
+ka logseq
+cd 
+cd bob-gui/
+cd bob-management-gui-front-temp/
+cd ..
+cd bob-management-gui-5-detailed-node/
+ls
+cargo run
+shutdown -P
+mount /dev/sda /mnt
+sudo mount /dev/sda /mnt
+cp -r /mnt/ovpn/ ./
+ls
+cd ovpn/
+ls
+v .
+nmtui
+cd ovpn/
+openvpn client_ps_sromanov.ovpn
+sudo openvpn client_ps_sromanov.ovpn
+http get https://sso.qoollo.com/auth/realms/office/protocol/openid-connect/auth?client_id=chat.qoollo.com&redirect_uri=https%3A%2F%2Fchat.qoollo.com%2F_oauth%2Fqoollosso&response_type=code&state=eyJsb2dpblN0eWxlIjoicmVkaXJlY3QiLCJjcmVkZW50aWFsVG9rZW4iOiI3ZGtHbl9tYVRZTmptckwwYktLc0sxc19XUzliZU93VW93TVNEbXNYNER2IiwiaXNDb3Jkb3ZhIjpmYWxzZSwicmVkaXJlY3RVcmwiOiJodHRwczovL2NoYXQucW9vbGxvLmNvbS9ob21lIn0%3D&scope=openid
+openvpn --help
+sudo openvpn 
+sudo openvpn --client client_ps_sromanov.ovpn
+sudo openvpn client_ps_sromanov.ovpn
+yay -S google-chrome
+cd ovpn/
+sudo openvpn client_ps_sromanov.ovpn
+ka openvpn
+kill 20114
+sudo kill 20114
+sudo openvpn client_ps_sromanov.ovpn
+sudo nvim /etc/systemd/network/90-tun-ignore.network
+cd vpn/
+sudo openvpn client_ps_sromanov.ovpn
+ls
+cd ..
+cd ovpn/
+ls
+sudo openvpn client_ps_sromanov.ovpn
+ka openvpn
+sudo kill 2626
+sudo openvpn client_ps_sromanov.ovpn
+sudo openvpn client_ps_sromanov.ovpn
+sudo ka docker
+ka docker
+http get https://sso.qoollo.com/auth/realms/office/protocol/openid-connect/auth?client_id=chat.qoollo.com&redirect_uri=https%3A%2F%2Fchat.qoollo.com%2F_oauth%2Fqoollosso&response_type=code&state=eyJsb2dpblN0eWxlIjoicmVkaXJlY3QiLCJjcmVkZW50aWFsVG9rZW4iOiJWdnA1UFlXMlVTaDExYjVwcWFtMkQ5eHVrODFYWEkzVnRIWGxra1BySXVQIiwiaXNDb3Jkb3ZhIjpmYWxzZSwicmVkaXJlY3RVcmwiOiJodHRwczovL2NoYXQucW9vbGxvLmNvbS9ob21lIn0%3D&scope=openid
+v client_ps_sromanov.ovpn
+get vpn.policesoft.ru:1194
+http get vpn.policesoft.ru:1194
+http get http://vpn.policesoft.ru:1194
+http get http://vpn.policesoft.ru:1194/
+http get https://vpn.policesoft.ru:1194/
+sudo openvpn client_ps_sromanov.ovpn
+cd github-archeoss/
+ls
+cd
+cd ovpn/
+sudo openvpn client_ps_sromanov.ovpn
+cd
+cd github-archeoss/
+git clone git@github.com:archeoss/practice.git
+cd practice/
+v .
+xelatex
+cd vpn/
+ls
+p -S texlive
+p -S fontforge
+cd github-archeoss/practice/
+xelatex practice.tex
+xelatex --shell-escape practice.tex
+p -S texlive-lang biber
+cd github-archeoss/practice/
+zathura practice.pdf
+shutdown -P
+cd github-archeoss/practice/
+v .
+yay -Syu
+nmtui
+yay -Syu
+св
+cd
+cd vpn/
+sudo ./run.sh rsv.PO.ovpn
+cd github-archeoss/
+nvidia-smi
+git clone git@github.com:qoollo/bob.git
+cd bob/
+v .
+yay -Syu
+v .
+yay -Syu
+nvidia-smi
+git checkout -b "824-init-grinder-metrics"
+git commit -m "init delete metrics"
+git add --all
+git commit -m "init delete metrics"
+git push origin 824-init-grinder-metrics
+cd compose_examples/
+ls
+cd one_node/
+v .
+cat ~/bob-gui/
+mkdir tmp
+mkdir tmp/{configs,data,log}
+ls tmp
+rm -rf tmp/{configs,data,log}/
+rm -rf tmp/data tmp/log tmp/configs
+mkdir tmp/data tmp/log tmp/configs
+mkdir  tmp/data/d1
+mkdir tmp/data/d1/bob
+mkdir tmp/data/d1/alien
+cat ~/bob-gui/bob/compose_examples/one_node/docker-compose.yml
+cat ~/bob-gui/bob/compose_examples/one_node/configs/cluster.yaml
+sudo docker-compose up
+cd github-archeoss/bob/compose_examples/
+ls
+cd one_node/
+ls
+sudo docker-compose up
+sudo docker networks prune
+sudo docker network prune
+sudo docker-compose up
+v docker-compose.yml
+sudo docker-compose up
+cp -r ~/bob-gui/bob/compose_examples/A-BOB-A/ ../
+cd ..
+sudo rm -rf ./one_node/tmp/
+cd A-BOB-A/
+v .
+cd ..
+cd one_node/
+sudo docker-compose down
+cd ..
+cd A-BOB-A/
+sudo docker-compose up
+cd ../
+ls
+v CHANGELOG.md
+git status
+git add CHANGELOG.md 
+git commit -m "Update Changelog"
+git push origin 824-init-grinder-metrics
+git add CHANGELOG.md
+git commit --fixup 63c8ff8 
+git push origin 824-init-grinder-metrics
+nmtui
+git checkout main
+git checkout master
+git checkout -b 823-add-detailed-disk-metrics
+nvidia-smi
+nmtui
+cd compose_examples/
+cd A-BOB-A/
+sudo docker-compose up
+sudo docker-compose build
+sudo docker-compose up
+git status
+sudo docker-compose build
+sudo docker-compose up
+ls ./tmp/node0/data/
+sudo docker-compose build
+sudo docker-compose up
+git status
+cd ../..
+git status
+git add src
+git status
+git add bob
+git status
+git commit -m "update spaceInfo with disks metrics (WIP)"
+git push origin 823-add-detailed-disk-metrics
+shutdown -P
+cd github-archeoss/bob/
+v .
+git add bob
+git status
+cd compose_examples/A-BOB-A/
+sudo docker-compose up
+sudo docker-compose build
+http get localhost:8000/status/space
+http get http://localhost:8000/status/space
+http get http://localhost:8000/status/space | disk_space
+http get http://localhost:8000/status/space | table -e
+sudo docker-compose up
+git commit -m "make it more conscious"
+git push origin 823-add-detailed-disk-metrics
+http get http://localhost:8000/status/space | table -e
+clear
+http get http://localhost:8000/status/space | table -e
+sudo docker-compose up
+sudo docker-compose build
+sudo docker-compose up
+cd ovpn/
+ssh 10.5.7.195
+cd github-archeoss/bob/
+sh ./scripts/run_cluster.sh -c ./compose_examples/one_node/configs/cluster.yaml -o ./compose_examples/one_node/configs/node.yaml
+sh ./scripts/run_cluster.sh -a -c ./compose_examples/one_node/configs/cluster.yaml -o ./compose_examples/one_node/configs/node.yaml
+ls ../../target/debug/
+cd ../..
+cargo build
+sh ./scripts/run_cluster.sh -a -c ./compose_examples/one_node/configs/cluster.yaml -o ./compose_examples/one_node/configs/node.yaml
+sudo openvpn client_ps_sromanov.ovpn
+cat ./scripts/run_cluster.sh
+ssh root@10.5.7.195
+cd ovpn/
+sudo openvpn client_ps_sromanov.ovpn
+git add CHANGELOG.md
+git commit -m "Update Changelog"
+git push origin 823-add-detailed-disk-metrics
+cargo build
+git add bob
+git commit -m "naming + clippy fixes"
+cargo build
+git push origin 823-add-detailed-disk-metrics
+p -S qbittorent
+p -S qbittorrent
+ls
+mkdir hhg
+cd hhg
+ls
+cd DLC/
+ls
+unzip ../Downloads/heros-harem-guild-pc-universal.zip 
+UNZIP_DISABLE_ZIPBOMB_DETECTION=TRUE unzip ../Downloads/heros-harem-guild-pc-universal.zip 
+cd hhg
+ls
+LS
+cd HHGv0.1.2.3b-v0.1.2.3b-pc/
+ls
+cd game/
+ls
+cd ..
+ls
+./HHGv0.1.2.3b.sh
+pip install pygame
+sudo pip install pygame
+pacman -S pygame
+pacman -S python-pygame
+pacman -S sdl
+pacman -S sdl2
+./HHGv0.1.2.3b.sh
+$env.SDL_VIDEODRIVER=wayland ./HHGv0.1.2.3b.sh
+yay -S sdl2-git
+$env.SDL_VIDEODRIVER=wayland ./HHGv0.1.2.3b.sh
+pip install pygame
+export SDL_VIDEODRIVER=wayland 
+with-env {$env.SDL_VIDEODRIVER: wayland } { ./HHGv0.1.2.3b.sh }
+with-env {$env.SDL_VIDEODRIVER: dummy } { ./HHGv0.1.2.3b.sh }
+with-env {$env.SDL_VIDEODRIVER: x11 } { ./HHGv0.1.2.3b.sh }
+./HHGv0.1.2.3b.py
+cat ./HHGv0.1.2.3b.sh
+./HHGv0.1.2.3b.py
+p -S python-future
+./HHGv0.1.2.3b.py
+p -S python-pygame-sdl2
+./HHGv0.1.2.3b.py
+./HHGv0.1.2.3b.sh
+./HHGv0.1.2.3b.py
+yay -Syu renpy-git
+yay -S renpy-git
+yay -S renpy6
+./HHGv0.1.2.3b.sh
+with-env {$env.SDL_VIDEODRIVER: x11 } { ./HHGv0.1.2.3b.sh }
+with-env {$env.SDL_VIDEODRIVER: wayland } { ./HHGv0.1.2.3b.sh }
+$env.SDL_VIDEODRIVER: wayland ./HHGv0.1.2.3b.sh 
+$env.SDL_VIDEODRIVER = wayland ./HHGv0.1.2.3b.sh 
+$env.SDL_VIDEODRIVER=wayland ./HHGv0.1.2.3b.sh 
+$env.SDL_VIDEODRIVER=x11 ./HHGv0.1.2.3b.sh 
+$env.SDL_VIDEODRIVER= ./HHGv0.1.2.3b.sh 
+yay -S python-pygame-sdl2
+yay -S pygame-sdl2
+$env.XDG_SESSION_TYPE=x11 ./HHGv0.1.2.3b.sh 
+cd hhg
+cd HHGv0.1.2.3b-v0.1.2.3b-pc/
+$env.XDG_SESSION_TYPE=x11 ./HHGv0.1.2.3b.sh 
+$env.XDG_SESSION_TYPE=x11 $env.WAYLAND_DISPLAY= ./HHGv0.1.2.3b.sh 
+v ../../.config/nushell/env.nu
+nvidia-smi
+nmtui
+ls .config/
+ls .config/ -a
+cd github-archeoss/bob/
+ls ~/.cache/
+cd
+cd .config/nushell/
+v env.nu
+ls
+cd github-archeoss/bob/
+git clone git@github.com:rsteube/carapace.git
+cd
+git clone git@github.com:rsteube/carapace.git
+cd carapace/
+ls
+go install .
+example
+source <(example _carapace bash)
+go install .
+go example
+git _carapace nushell
+carapace.go
+ls
+cd example/
+go install .
+cd ..
+echo $env.GOPATH
+echo $env.PATH
+example _carapace nushell
+nvidia-smi
+example
+example git
+example --help
+example action
+example git action
+p -S carapace
+rm -rf carapace/
+p -S carapace
+p -S carapace-bin
+yay -S carapace-bin
+carapace _carapace nushell
+cd github-archeoss/
+ls
+cd bob/
+cd 
+git status
+ls
+rm -rf `Доки для трудоустройства 2023/`
+git status
+cd .config/nvim/
+ls
+cd lua/user/
+ls
+git status
+git diff
+git add --all
+git commit -m "scale change"
+git push origin master
+cd ../..
+cd ..
+git status
